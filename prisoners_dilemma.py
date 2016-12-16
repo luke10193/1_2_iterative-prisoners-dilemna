@@ -24,7 +24,6 @@ from __future__ import print_function
 # Each player should have their own .py file containing 
 # three strings team_name, strategy_name, and strategy_description
 # and a function move(my_history, their_history, my_score, their_score)
-# 
 # By default, when executing this file, [example0, example1, example2, example3] 
 # play a tournament. To run the tournament of [team, team1, team1, example1]:
 # scores, moves, reports = main_play([team1]*3+[example1])
